@@ -2,7 +2,7 @@ package training.taylor.timetracker.core;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
-import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Configuration;  //checking
 import training.taylor.timetracker.core.dao.TimeEntry;
 
 import java.util.ArrayList;
